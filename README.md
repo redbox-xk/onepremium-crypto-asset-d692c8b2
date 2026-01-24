@@ -1,5 +1,7 @@
 # OnePremium (OPM) Crypto Asset Repository
 
+![OnePremium Logo](https://github.com/ONEPREMIUM-Fundation/onepremium-crypto-asset/blob/main/opm-logo.svg)
+
 This repository consolidates all verified and production-ready data for **OnePremium (OPM)**, an Ethereum-based ERC-20 utility token. It is designed to serve as the authoritative source for token metadata, on-chain references, market data, and integration assets across decentralized exchanges (DEXs), wallets, and analytics platforms.
 
 ---
