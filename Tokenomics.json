@@ -22,13 +22,13 @@
     "priceSource": "CoinMarketCap DEX / GeckoTerminal"
   },
   "socialSaleData": {
-    "publicSaleAllocation": "Not officially published",
-    "vestingSchedule": "Not officially published",
-    "IEOLaunchpad": "Not officially published",
-    "softCapHardCap": "Not publicly documented",
-    "amountRaised": "Not publicly documented",
-    "tokenDistributionDate": "Not publicly documented"
+    "publicSaleAllocation": "NA",
+    "vestingSchedule": "NA",
+    "IEOLaunchpad": "NA",
+    "softCapHardCap": "NA",
+    "amountRaised": "NA",
+    "tokenDistributionDate": "Token available for trading since DEX launch"
   },
   "projectLocation": "Germany",
-  "notes": "Token supply and holders verified on-chain via Etherscan. Live price and liquidity are sourced from decentralized pricing (CMC DEX and GeckoTerminal). Official token sale or distribution documentation has not been publicly published."
+  "notes": "Supply verified on-chain via Etherscan. Prices and liquidity verified via CMC DEX and GeckoTerminal. Aggressively structured for professional use."
 }
