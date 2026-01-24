@@ -1,6 +1,6 @@
 {
   "name": "OnePremium Token List",
-  "logoURI": "https://raw.githubusercontent.com/OnePremiumTeam/onepremium-crypto-asset/main/logo.png",
+  "logoURI": "https://github.com/ONEPREMIUM-Fundation/onepremium-crypto-asset/blob/main/opm-logo.svg",
   "keywords": ["OPM","OnePremium","Ethereum","ERC20","Utility Token","DeFi"],
   "timestamp": "2026-01-24T00:00:00Z",
   "version": {"major":1,"minor":0,"patch":0},
@@ -11,9 +11,9 @@
       "name":"OnePremium",
       "symbol":"OPM",
       "decimals":18,
-      "logoURI":"https://raw.githubusercontent.com/OnePremiumTeam/onepremium-crypto-asset/main/logo.png",
+      "logoURI":"https://github.com/ONEPREMIUM-Fundation/onepremium-crypto-asset/blob/main/opm-logo.svg",
       "website":"https://onepremium.de",
-      "description":"OnePremium (OPM) is a fully verified Ethereum ERC-20 utility token with active on-chain liquidity pools on Uniswap and transparent activity for transactional and ecosystem purposes within the OnePremium platform.",
+      "description":"OnePremium (OPM) is a verified Ethereum ERC-20 utility token with active liquidity pools on Uniswap, transparent on-chain activity, and ecosystem usage for transactional purposes.",
       "socials":{
         "telegram":"https://t.me/onepremiumcoin",
         "medium":"https://medium.com/@kontakt_32032"
