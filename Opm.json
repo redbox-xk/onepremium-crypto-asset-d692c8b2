@@ -1,0 +1,15 @@
+{
+  "chainId": 1,
+  "address": "0xE430b07F7B168E77B07b29482DbF89EafA53f484",
+  "name": "One Premium",
+  "symbol": "OPM",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ONEPREMIUM-Fundation/onepremium-crypto-asset/main/opm-logo.png",
+  "website": "https://onepremium.de",
+  "explorer": "https://etherscan.io/token/0xE430b07F7B168E77B07b29482DbF89EafA53f484",
+  "socials": {
+    "twitter": "https://twitter.com/onepremium",
+    "telegram": "https://t.me/onepremium"
+  },
+  "description": "One Premium (OPM) is a verified ERC-20 token with official website, assets, and active liquidity pool. This JSON is submitted for inclusion in the QuickSwap default token list."
+}
